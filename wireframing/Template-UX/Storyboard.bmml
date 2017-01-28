@@ -1,0 +1,143 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1360" measuredH="880" mockupW="1360" mockupH="880">
+  <controls>
+    <control controlID="87" controlTypeID="__group__" x="40" y="160" w="1280" h="680" measuredW="1280" measuredH="680" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName/>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="400" h="320" measuredW="400" measuredH="320" zOrder="0" locked="false" isInGroup="87">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="400" h="320" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <borderStyle>square</borderStyle>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="260" w="400" h="60" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <color>16777215</color>
+                <shape>rectangle</shape>
+                <text>Description</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="440" y="0" w="400" h="320" measuredW="400" measuredH="320" zOrder="1" locked="false" isInGroup="87">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="400" h="320" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <borderStyle>square</borderStyle>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="260" w="400" h="60" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <color>16777215</color>
+                <shape>rectangle</shape>
+                <text>Description</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="880" y="0" w="400" h="320" measuredW="400" measuredH="320" zOrder="2" locked="false" isInGroup="87">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="400" h="320" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <borderStyle>square</borderStyle>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="260" w="400" h="60" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <color>16777215</color>
+                <shape>rectangle</shape>
+                <text>Description</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="0" y="360" w="400" h="320" measuredW="400" measuredH="320" zOrder="3" locked="false" isInGroup="87">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="400" h="320" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <borderStyle>square</borderStyle>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="260" w="400" h="60" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <color>16777215</color>
+                <shape>rectangle</shape>
+                <text>Description</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="440" y="360" w="400" h="320" measuredW="400" measuredH="320" zOrder="4" locked="false" isInGroup="87">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="400" h="320" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <borderStyle>square</borderStyle>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="260" w="400" h="60" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <color>16777215</color>
+                <shape>rectangle</shape>
+                <text>Description</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="880" y="360" w="400" h="320" measuredW="400" measuredH="320" zOrder="5" locked="false" isInGroup="87">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="400" h="320" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <borderStyle>square</borderStyle>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="260" w="400" h="60" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderColor>13421772</borderColor>
+                <color>16777215</color>
+                <shape>rectangle</shape>
+                <text>Description</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::StickyNote" x="1124" y="31" w="221" h="200" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221134%2C122%2C1326.22607421875%2C133.958984375%22%20href%3D%22http%3A//www.uxapprentice.com/strategy/%22%20alt%3D%22FInd%20out%20more%20about%20personas%20at%20UX%20Apprentice.%22%20id%3D%2289%22%20target%3D%22_blank%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%221134%2C137.6%2C1220.7216796875%2C149.558984375%22%20href%3D%22http%3A//www.uxapprentice.com/strategy/%22%20alt%3D%22FInd%20out%20more%20about%20personas%20at%20UX%20Apprentice.%22%20id%3D%2289%22%20target%3D%22_blank%22/%3E</map>
+        <text>*HOW%20TO%20USE*%0A%20%0AThis%20is%20an%20example%20site%20map%20template%20that%20you%20can%20clone.%0A%20%0A%5BFInd%20out%20more%20about%20personas%20at%20UX%20Apprentice.%5D%28http%3A//www.uxapprentice.com/strategy/%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1360" h="880" measuredW="1360" measuredH="880" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/ux-template-container-symbols.bmml#UX%20Page%20Master</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

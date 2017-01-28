@@ -1,0 +1,68 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1360" measuredH="880" mockupW="1360" mockupH="880">
+  <controls>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::DataGrid" x="370" y="180" w="212" h="388" measuredW="129" measuredH="101" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <alternateRowColor>16777215</alternateRowColor>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <rowHeight>33</rowHeight>
+        <size>14</size>
+        <text>%7Bcolor%3A%23999999%7DCREATION%20DATE%7Bcolor%7D%0A%7Bcolor%3A%23999999%7DCREATOR%7Bcolor%7D%0A%7Bcolor%3A%23999999%7DDESCRIPTION%7Bcolor%7D</text>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::HRule" x="378" y="155" w="204" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::DataGrid" x="597" y="180" w="644" h="388" measuredW="158" measuredH="101" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>16777215</alternateRowColor>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <rowHeight>33</rowHeight>
+        <size>14</size>
+        <text>mm/dd/yyyy%0AFirst%20Name%20Last%20Name%0ADescription%20Here</text>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1360" h="880" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>16711935</color>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::HRule" x="597" y="155" w="645" h="10" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Title" x="598" y="115" w="644" h="33" measuredW="168" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>32</size>
+        <text>Project%20Title</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="__group__" x="24" y="38" w="221" h="200" measuredW="221" measuredH="200" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="__group__" x="0" y="0" w="221" h="200" measuredW="221" measuredH="200" zOrder="0" locked="false" isInGroup="43">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::StickyNote" x="0" y="0" w="221" h="200" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <color>10470904</color>
+                <text>*HOW%20TO%20USE*%0A%20%0AEdit%20this%20page%20if%20you%20need%20a%20cover.%20%0A%20%0ADon%27t%20forget%20to%20delete%20these%20notes%20when%20you%27re%20done%20setting%20up.</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="179" y="9" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <color>16777215</color>
+                <icon>Info2Icon%7Cmedium</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

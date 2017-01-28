@@ -1,0 +1,37 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1360" measuredH="880" mockupW="1360" mockupH="880">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Paragraph" x="723" y="120" w="597" h="596" measuredW="275" measuredH="80" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>*%7Bsize%3A24%7DInstructions%7Bsize%7D*%0A%20%0A*1.%20Set%20up%20your%20page%20masters*%0A*%20Open%20your%20Symbols%20Library%20in%20assets/ux%5C-template%5C-container%5C-symbols.bmml%20and%20edit%20the%20project%20title%20in%20PAGE-MASTER.%20%0A*%20The%20Mockup%20names%20use%20%7B%20mockup-name%20%7D%20%20macro%20to%20insert%20page%20titles%20automatically%2C%20so%20don%27t%20edit%20it.%20%0A%20%0A*2.%20To%20add%20new%20pages*%0A*%20Clone%20one%20of%20the%20example%20pages%20provided%2C%20e.g.%20Wireframe-Desktop.%20Some%20of%20the%20examples%20use%20the%20PAGE-MASTER%20to%20format%20headings.%0A*%20There%20are%20a%20few%2012%20column%20grids%20you%20can%20use%3A%20WIREFRAME-DESKTOP%20-TABLET%20and%20_PHONE.%20Toggle%20Markup%20to%20show/hide%20the%20grid%20columns.%0A%20%0A*3.%20Adding%20Controls*%0A*%20A%20set%20of%20controls%20are%20provided%20for%20wireframing%20the%20basics.%20%0A%20%0A*4.%20Skin%20and%20Font*%0A*%20This%20template%20is%20meant%20to%20be%20used%20with%20the%20Wireframe%20Skin%20and%20System%20Fonts%20%28Helvetica%20or%20Arial%29.%0A*%20Set%20Skin%20by%20selecting%20the%20menu%20View%20%3E%20Wireframe%20Skin.%20%0A*%20Set%20the%20Font%20by%20selecting%20the%20menu%20View%20%3E%20System%20Fonts.%20%0A%20%0ADelete%20this%20page%20from%20your%20deck%2C%20and%20make%20sure%20to%20delete%20the%20examples%20when%20you%27re%20ready%20to%20export%20or%20present.</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1360" h="880" measuredW="100" measuredH="70" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>16711935</color>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::HRule" x="40" y="95" w="1280" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="40" y="50" w="1280" h="-1" measuredW="411" measuredH="33" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>32</size>
+        <text>How%20to%20Use%20the%20UX%20Template</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="1225" y="44" w="-1" h="-1" measuredW="95" measuredH="30" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//media.balsamiq.com/files/balsamiq-logo-sm.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="40" y="120" w="597" h="596" measuredW="275" measuredH="80" zOrder="5" locked="true" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>*About*%0A%20%0AThis%20is%20a%20template%20for%20designing%20_polished%20wireframes_%20when%20you%20want%20to%20present%20your%20document%20to%20clients.%0A%20%0AMockups%20is%20made%20for%20low-fidelity%2C%20rapid%20idea%20generation.%20We%20believe%20it%27s%20best%20to%20use%20the%20Sketch%20Skin%20when%20you%27re%20working%20internally%2C%20within%20your%20team.%20However%2C%20when%20it%20comes%20time%20to%20present%20to%20clients%2C%20many%20people%20want%20to%20present%20something%20that%20doesn%27t%20have%20that%20Sketchy%20look.%20%0A%20%0AWhether%20you%20work%20in%20an%20agency%20and%20need%20to%20present%20something%20a%20little%20cleaner%20to%20clients%2C%20or%20you%20work%20in%20a%20company%20that%20is%20going%20to%20present%20your%20ideas%20to%20stakeholders%20that%20want%20to%20see%20something%20polished%2C%20this%20template%20is%20should%20give%20you%20some%20ideas%20for%20how%20to%20do%20that%20without%20leaving%20Balsamiq%20Mockups.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
